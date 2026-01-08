@@ -36,6 +36,8 @@ nav ul li {
 
 nav ul li a {
     font-size: var(--font-size-5);
+    text-decoration: none;
+    color: var(--color-black-1);
 }
 
 nav ul li a:hover {
